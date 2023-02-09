@@ -12,7 +12,6 @@ Once you've built the app, you may test it locally by running npm run preview co
   $ npm run preview
 ```
 
-
 ## Deployment
 
 If you setup JavaScript using vite you can deploy this project using
@@ -20,3 +19,7 @@ If you setup JavaScript using vite you can deploy this project using
 ```bash
   $ npm run deploy
 ```
+
+## Author
+
+- [@Andrew-Tsegaye](https://www.github.com/Andrew-Tsegaye)
