@@ -4,6 +4,14 @@ The Bankist App appears to be a simple, minimalist online banking application. I
 
 ![Mapty App](https://i.imgur.com/c2me9o8.png)
 
+## Features
+
+- Ability to Login and Close account
+- Ability to transfer money
+- Ability to deposite and withdrawal money
+- Ability to sort cash transaction in order
+- Cross platform
+
 - Testing the App Locally
 Once you've built the app, you may test it locally by running npm run preview command.
 
