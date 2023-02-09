@@ -12,7 +12,7 @@ The Bankist App appears to be a simple, minimalist online banking application. I
 - Ability to sort cash transaction in order
 - Cross platform
 
-- Testing the App Locally
+### Testing the App Locally
 Once you've built the app, you may test it locally by running npm run preview command.
 
 ```bash
