@@ -28,4 +28,4 @@ If you setup JavaScript using vite you can deploy this project using
   $ npm run deploy
 ```
 
-- Developed by [Andrew-Tsegaye](https://www.github.com/Andrew-Tsegaye)
+- Designed and developed by [Andrew-Tsegaye](https://www.github.com/Andrew-Tsegaye)
